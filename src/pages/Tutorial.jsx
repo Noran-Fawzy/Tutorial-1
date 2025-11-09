@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import step1Img from "../assets/tutorial-1.png";
-import step2Img from "../assets/tutorial-2.png";
-import step3Img from "../assets/tutorial-3.png";
-import step4Img from "../assets/tutorial-4.png";
-import step5Img from "../assets/tutorial-5.png";
-import "./Tutorial.css";
+import step1Img from "../assets/tutorial-1-1.png";
+import step2Img from "../assets/tutorial-2-1.png";
+import step3Img from "../assets/tutorial-3-1.png";
+import step4Img from "../assets/tutorial-4-1.png";
+import step5Img from "../assets/tutorial-5-1.png";
+import "./Tutorial-1.css";
 
 export default function Tutorial() {
   const steps = [
