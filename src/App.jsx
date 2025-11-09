@@ -1,5 +1,5 @@
 import React from "react";
-import Tutorial from "./pages/Tutorial"; 
+import Tutorial from "./pages/Tutorial-1"; 
 import "./App.css";
 
 function App() {
